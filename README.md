@@ -1,5 +1,3 @@
-# Create folder structure app
-
 ## Overview
 
 Given a JSON tree with leaf nodes as an array. Represent it in the form of a folder structure where upper nodes act as folders and leaf nodes act as files.
